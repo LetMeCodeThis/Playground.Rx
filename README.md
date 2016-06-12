@@ -1,2 +1,2 @@
 # Playground.Rx
-Test project to get familiar with Reactive Extensions
+Test project used to get familiar with Reactive Extensions
