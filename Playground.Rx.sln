@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playground.Rx.Server", "Playground.Rx.Server\Playground.Rx.Server.csproj", "{A1CACE6E-F8C7-44F2-AF0C-42586BE2B304}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playground.Rx.Client", "Playground.Rx.Client\Playground.Rx.Client.csproj", "{28A6DB67-F27B-45CF-B2C2-496C322A9B3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleRunner", "ConsoleRunner\ConsoleRunner.csproj", "{A81968AD-2D5C-4698-9F75-CC1D48310782}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1CACE6E-F8C7-44F2-AF0C-42586BE2B304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1CACE6E-F8C7-44F2-AF0C-42586BE2B304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1CACE6E-F8C7-44F2-AF0C-42586BE2B304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1CACE6E-F8C7-44F2-AF0C-42586BE2B304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28A6DB67-F27B-45CF-B2C2-496C322A9B3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28A6DB67-F27B-45CF-B2C2-496C322A9B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28A6DB67-F27B-45CF-B2C2-496C322A9B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28A6DB67-F27B-45CF-B2C2-496C322A9B3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A81968AD-2D5C-4698-9F75-CC1D48310782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A81968AD-2D5C-4698-9F75-CC1D48310782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A81968AD-2D5C-4698-9F75-CC1D48310782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A81968AD-2D5C-4698-9F75-CC1D48310782}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
